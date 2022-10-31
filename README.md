@@ -7,7 +7,7 @@ Welcome to my GitHub page!
 Here are some ideas to get you started:
 -->
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on GitHub
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Web Devlopement, Smartphones, Open Source, and Other Tech-Related Stuff.
