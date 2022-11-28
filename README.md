@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Improving my Developement Skills**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **MERN and DSALGO**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
