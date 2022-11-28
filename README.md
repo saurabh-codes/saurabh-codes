@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Agrahari</h1>
-<h3 align="center">A passionate Frontend Web Developer from India</h3>
+<h3 align="center">A passionate self taught Software Engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people. Some technologies I enjoy working with include ReactJS, JavaScript, APIs, HTML, CSS and NodeJs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-codes&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-codes" /> </p>
 
@@ -20,6 +20,10 @@
 - 💬 Ask me about **Web Devlopement, Smartphones, Open Source, and Other Tech-Related Stuff.**
 
 - 📫 How to reach me **agraharisaurabh111@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/saurabh-codes/my-portfolio](https://github.com/saurabh-codes/my-portfolio)
+
+- ⚡ Fun fact **I procastinate more than I code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
