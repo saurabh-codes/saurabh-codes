@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Improving my Developement Skills**
 
-- 🌱 I’m currently learning **Full Stack Web Developement**
+- 🌱 I’m currently learning **NodeJs**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
