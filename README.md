@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/saurabh_codes" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh_codes?logo=twitter&style=for-the-badge" alt="saurabh_codes" /></a> </p>
 
-- 🔭 I’m currently working on **Improving my Deveolpement Skills**
+- 🔭 I’m currently working on **Improving my Developement Skills**
 
-- 🌱 I’m currently learning **Full Stack Web Developent**
+- 🌱 I’m currently learning **Full Stack Web Developement**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
