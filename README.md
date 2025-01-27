@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Agrahari</h1>
-<h3 align="center">A passionate Self Taught Software Engineer who is passionate about making contributing to Open-Source more approachable, creating Technology to elevate people. Some Technologies I enjoy working with include ReactJS, JavaScript, APIs, HTML, CSS and NodeJs.</h3>
+<h3 align="center">A passionate Self Taught Software Engineer who is passionate about making contributing to Open-Source more approachable, creating Technology to elevate people. Some Technologies I enjoy working with include ReactJS, JavaScript, APIs, HTML, CSS, NodeJs and Java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-codes&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-codes" /> </p>
 
