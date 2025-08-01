@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Agrahari</h1>
-<h3 align="center">A passionate Self Taught Software Engineer who is passionate about making contributing to Open-Source more approachable, creating Technology to elevate people. Some Technologies I enjoy working with include ReactJS, JavaScript, APIs, HTML, CSS, NodeJs and Java.</h3>
+<h3 align="center">A passionate Self Taught Software Engineer who is passionate about making contributing to Open-Source more approachable, creating Technology to elevate people. Some Technologies I enjoy working with include ReactJS, JavaScript, APIs, HTML, CSS, NodeJs, Java and Spring Boot.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-codes&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-codes" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Improving my Developement Skills**
 
-- 🌱 I’m currently learning **MERN and DSALGO**
+- 🌱 I’m currently learning **DSALGO**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/saurabh-codes](github.com/saurabh-codes)
 
-- 💬 Ask me about **Web Devlopement, Smartphones, Open Source, and Other Tech-Related Stuff.**
+- 💬 Ask me about **Full-Stack Devlopement, Smartphones, Open Source, and Other Tech-Related Stuff.**
 
 - 📫 How to reach me **agraharisaurabh111@gmail.com**
 
