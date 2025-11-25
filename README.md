@@ -7,24 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/saurabh_codes" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh_codes?logo=twitter&style=for-the-badge" alt="saurabh_codes" /></a> </p>
 
-- 🔭 I’m currently working on **Improving my Developement Skills**
-
-- 🌱 I’m currently learning **DSALGO**
-
-- 👯 I’m looking to collaborate on **GitHub**
-
-- 🤝 I’m looking for help with **contributing to Open-Source Projects**
-
-- 👨‍💻 All of my projects are available at [github.com/saurabh-codes](github.com/saurabh-codes)
-
-- 💬 Ask me about **Full-Stack Devlopement, Smartphones, Open Source, and Other Tech-Related Stuff.**
-
-- 📫 How to reach me **agraharisaurabh111@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/saurabh-codes/my-portfolio](https://github.com/saurabh-codes/my-portfolio)
-
-- ⚡ Fun fact **I procastinate more than I code.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saurabh_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurabh_codes" height="30" width="40" /></a>
